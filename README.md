@@ -14,7 +14,7 @@ This repository is meant to make replication work in energy and environmental ma
 It is especially useful for:
 
 - researchers studying energy and environmental markets  
-- students working on climate policy and regulation  
+- students 
 - instructors building replication-based coursework  
 
 ---
@@ -27,10 +27,11 @@ It is especially useful for:
 | Natalia Fabra, Mar Reguant | *Pass-Through of Emissions Costs in Electricity Markets* | *American Economic Review* | 2014 | [Open](https://www.openicpsr.org/openicpsr/project/112855/version/V1/view) |
 | Koichiro Ito, Mar Reguant | *Sequential Markets, Market Power, and Arbitrage* | *American Economic Review* | 2016 | [Open](https://doi.org/10.3886/e231366v1) |
 | Akshaya Jha, Gordon Leslie | *Start-Up Costs and Market Power: Lessons from the Renewable Energy Transition* | *American Economic Review* | 2025 | [Open](https://doi.org/10.3886/E208143V1) |
+| Natalia Fabra, David Rapson, Mar Reguant, Jingyuan Wang | *Estimating the Elasticity to Real-Time Pricing: Evidence from the Spanish Electricity Market* | *AEA Papers and Proceedings* | 2021 | [Open](https://www.openicpsr.org/openicpsr/project/137681/version/V1/view) |
 
 ---
 
 ## Additional Information
 
-Our private repository contains additional code and datasets from research papers related to **energy and environmental markets**, **demand estimation**, **digital markets**, **auctions**, and **vertical markets**, along with other conference topics.  
-Please complete the conference access form to request entry.
+Our private repository contains additional code and datasets from research papers related to **energy and environmental markets**.  
+Please complete the access form to request entry.
