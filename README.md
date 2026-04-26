@@ -18,6 +18,7 @@ This repository is meant to make replication work in energy and environmental ma
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | Severin Borenstein, James Bushnell, Frank A. Wolak | *Measuring Market Inefficiencies in California's Restructured Wholesale Electricity Market* | *American Economic Review* | 2002 | [Open](https://doi.org/10.3886/E116021V1) |
+| Kira R. Fabrizio, Nancy L. Rose, Catherine D. Wolfram | *Do Markets Reduce Costs? Assessing the Impact of Regulatory Restructuring on US Electric Generation Efficiency* | *American Economic Review* | 2007 | [Open](https://doi.org/10.3886/E116286V1) |
 | Dallas Burtraw, Josh Linn, Karen Palmer, Anthony Paul | *The Costs and Consequences of Clean Air Act Regulation of CO₂ from Power Plants* | *American Economic Review* | 2014 | [Open](https://doi.org/10.3886/E112816V1) |
 | Natalia Fabra, Mar Reguant | *Pass-Through of Emissions Costs in Electricity Markets* | *American Economic Review* | 2014 | [Open](https://www.openicpsr.org/openicpsr/project/112855/version/V1/view) |
 | Koichiro Ito, Mar Reguant | *Sequential Markets, Market Power, and Arbitrage* | *American Economic Review* | 2016 | [Open](https://doi.org/10.3886/e231366v1) |
