@@ -9,13 +9,7 @@
 
 ## 🌟 Why This Repo
 
-This repository is meant to make replication work in energy and environmental markets more accessible by providing a centralized collection of datasets and code.
-
-It is especially useful for:
-
-- researchers studying energy and environmental markets  
-- students 
-- instructors building replication-based coursework  
+This repository is meant to make replication work in energy and environmental markets more accessible by providing a centralized collection of datasets and code. 
 
 ---
 
@@ -29,7 +23,7 @@ It is especially useful for:
 | Koichiro Ito, Mar Reguant | *Sequential Markets, Market Power, and Arbitrage* | *American Economic Review* | 2016 | [Open](https://doi.org/10.3886/e231366v1) |
 | Mathias Reynaert | *Abatement Strategies and the Cost of Environmental Regulation: Emission Standards on the European Car Market* | *The Review of Economic Studies* | 2021 | [Open](https://dx.doi.org/10.52xx/zenodo.4013683) |
 | Natalia Fabra, David Rapson, Mar Reguant, Jingyuan Wang | *Estimating the Elasticity to Real-Time Pricing: Evidence from the Spanish Electricity Market* | *AEA Papers and Proceedings* | 2021 | [Open](https://www.openicpsr.org/openicpsr/project/137681/version/V1/view) |
-| Tuba Tunçel | *Should We Prevent Off-Label Drug Prescriptions? Empirical Evidence from France* | *The Review of Economic Studies* | 2025 | [Open](https://zenodo.org/records/10459739) |
+| Philippe Aghion, Roland Bénabou, Ralf Martin, Alexandra Roulet | *Environmental Preferences and Technological Choices: Is Market Competition Clean or Dirty?* | *American Economic Review: Insights* | 2023 | [Open](https://www.openicpsr.org/openicpsr/project/183613/version/V1/view) |
 | Akshaya Jha, Gordon Leslie | *Start-Up Costs and Market Power: Lessons from the Renewable Energy Transition* | *American Economic Review* | 2025 | [Open](https://doi.org/10.3886/E208143V1) |
 
 
