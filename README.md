@@ -28,7 +28,7 @@ This repository is meant to make replication work in energy and environmental ma
 | Philippe Aghion, Roland Bénabou, Ralf Martin, Alexandra Roulet | *Environmental Preferences and Technological Choices: Is Market Competition Clean or Dirty?* | *American Economic Review: Insights* | 2023 | [Open](https://www.openicpsr.org/openicpsr/project/183613/version/V1/view) |
 | Akshaya Jha, Gordon Leslie | *Start-Up Costs and Market Power: Lessons from the Renewable Energy Transition* | *American Economic Review* | 2025 | [Open](https://doi.org/10.3886/E208143V1) |
 
-## Energy-Environmental-Markets
+## American Economic Journal: Microeconomics
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
