@@ -74,6 +74,8 @@ This repository is meant to make replication work in energy and environmental ma
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | Natalia Fabra, David Rapson, Mar Reguant, Jingyuan Wang | *Estimating the Elasticity to Real-Time Pricing: Evidence from the Spanish Electricity Market* | *AEA Papers and Proceedings* | 2021 | [Open](https://www.openicpsr.org/openicpsr/project/137681/version/V1/view) |
+| Mario Intini, Michael Waterson | *Strategic behaviour by wind generators: An empirical investigation* | *International Journal of Industrial Organization* | 2023 | [Open](https://zenodo.org/record/7716493) |
+
 
 
 ---
